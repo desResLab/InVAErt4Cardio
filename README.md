@@ -31,4 +31,14 @@ This repository contains pre-trained neural network models, training dataset and
 1. ```Structural_id_study```: pre-trained models for the structural identifiability analysis.
 2. ```EHR```: pre-trained models for the study of the EHR dataset.
 
+### Recommended dependencies
+- ```Pytorch```: 2.4.1
+- ```CUDA```: 11.8
+- ```Python```: 3.10.12
+- ```numpy```: 1.26.4
+- ```scipy```: 1.12.0
+- ```matplotlib```: 3.9.2
+- ```mpi4py```: 4.0.0
+- ```sklearn```: 1.5.2
+
 #### Please stay tuned for the Jupyter Notebook tutorials!
