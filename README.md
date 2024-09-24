@@ -3,7 +3,7 @@
 
 This repository contains pre-trained neural network models, training dataset and all related scripts. For additional information, please refer to the publications below:
 
-1. InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models, [Guoxiang Grayson Tong](https://grayson3455.github.io/), [Carlos A. Sing-Long Collao](https://www.ing.uc.cl/academicos-e-investigadores/carlos-alberto-sing-long-collao/), and [Daniele E. Schiavazzi](https://www3.nd.edu/~dschiava/).
+1. [InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models](https://arxiv.org/abs/2408.08264), [Guoxiang Grayson Tong](https://grayson3455.github.io/), [Carlos A. Sing-Long Collao](https://www.ing.uc.cl/academicos-e-investigadores/carlos-alberto-sing-long-collao/), and [Daniele E. Schiavazzi](https://www3.nd.edu/~dschiava/).
 
 2. [InVAErt networks: A data-driven framework for model synthesis and identifiability analysis](https://www-sciencedirect-com.proxy.library.nd.edu/science/article/pii/S0045782524001026), [Guoxiang Grayson Tong](https://grayson3455.github.io/), [Carlos A. Sing-Long Collao](https://www.ing.uc.cl/academicos-e-investigadores/carlos-alberto-sing-long-collao/), and [Daniele E. Schiavazzi](https://www3.nd.edu/~dschiava/).
 
